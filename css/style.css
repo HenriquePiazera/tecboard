@@ -23,7 +23,7 @@
 
 /*início das configurações para desktop*/
 body{
-    background-color: #0E1014;
+    background-color:darkblue;
     color: #ffffff;
 }
 
@@ -32,7 +32,7 @@ header img{
     margin: 75px 0 0 360px;
 }
 h1{
-    font-size: 64px;
+    font-size: 80px;
     font-family: "unbounded", sans-serif;
     text-align: center;
     margin-top: 60px;
